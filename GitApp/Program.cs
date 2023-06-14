@@ -11,7 +11,7 @@ namespace GitApp
         static void Main(string[] args)
         {
             int a = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Hello1"+ a);
+            Console.WriteLine("Hellooooo"+ a);
             Console.ReadKey();
         }
     }
